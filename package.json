@@ -1,0 +1,22 @@
+{
+  "name": "bluebird-iojs",
+  "version": "1.0.0",
+  "description": "blue bird promises with iojs",
+  "main": "blubird-gen-test.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saitodisse/bluebird-iojs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saitodisse/bluebird-iojs/issues"
+  },
+  "homepage": "https://github.com/saitodisse/bluebird-iojs",
+  "dependencies": {
+    "bluebird": "^2.9.14"
+  },
+  "engines": {
+      "iojs": ">= 1.5.1"
+  }
+}
