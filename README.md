@@ -15,3 +15,20 @@ nvm install iojs-v1.5.1
 # run example with iojs native generators
 iojs blubird-gen-test.js
 ```
+
+you should see that:
+```sh
+$ iojs blubird-gen-test.js
+Ping? 0
+Pong! 1
+Ping? 2
+Pong! 3
+Ping? 4
+Pong! 5
+Ping? 6
+Pong! 7
+Ping? 8
+Pong! 9
+Ping? 10
+...
+```
